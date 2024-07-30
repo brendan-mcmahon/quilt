@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Page</title>
+</head>
+<body>
+    <[Header] {title}="Welcome"/>
+    <main>
+        <h1>Welcome to my page!</h1>
+    </main>
+    <[Footer] {year}="2024"/>
+</body>
+</html>

@@ -1,0 +1,14 @@
+<html>
+    <[food] {[fruit]}="component name!"/>
+
+    <[apple-counter] {[count]}="4"></[apple-counter]>
+</html>
+
+<div>
+    
+</div>
+
+<div>
+    <h3>I have {count} apples</h3>
+
+</div>

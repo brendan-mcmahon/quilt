@@ -1,0 +1,4 @@
+<div>
+    <h3>parent to:</h3>
+    <[nested-component] />
+</div>

@@ -1,21 +1,25 @@
-MIT License
+Quilt HTML Pre-processor License (QHPL)
 
-Copyright (c) 2024 brendan.mcmahon.bloomerang
+1. Definitions
+"The software" refers to the Quilt HTML Pre-processor.
+"Derivative works" refer to any modifications, enhancements, or adaptations made to the software.
+"You" refers to any person or entity using or applying the software or derivative works.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+2. Grant of Rights
+Subject to the terms of this License, you are granted a non-exclusive, worldwide, free license to use, modify, and distribute the software and any derivative works.
+You are allowed to use the software and any derivative works solely for non-commercial purposes.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+3. Conditions
+You must include a copy of this License with any copies of the software or derivative works you distribute.
+You must credit the original author of the software in any derivative works or distributions of the software.
+Any derivative works you create must be licensed under the exact same terms as this license, including the non-commercial use restriction.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+4. Restrictions
+The software and any derivative works may not be used for commercial purposes. "Commercial use" includes, but is not limited to, the sale of the software, derivative works, or services that utilize the software, as well as the use of the software in any other manner in which you directly or indirectly commercially benefit.
+You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+5. No Warranty
+The software is provided "as is", without warranty of any kind, express or implied. The author is not liable for any claims, damages, or other liabilities, whether in an action of contract, tort or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+6. Termination
+The rights granted to you under this License terminate automatically if you do not comply with these terms and conditions. Upon termination, you must cease all use and destroy all copies of the software and derivative works.
